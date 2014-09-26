@@ -1,2 +1,1 @@
-i made a new line
-
+i made a new line now with conflicts resolved
